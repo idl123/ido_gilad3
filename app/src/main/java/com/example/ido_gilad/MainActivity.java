@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
             R.id.bX, R.id.bM, R.id.bP, R.id.bbr1, R.id.bbr2, R.id.bE, R.id.bDel, R.id.bAc};
     int index = 0;
     int num1,num2;
-    long res,shalomachav;
+    long res,bob=10;
     String state = "";
     String[] num = {"",""};
     public  void display(String x){
@@ -98,6 +98,7 @@ public class MainActivity extends AppCompatActivity {
                 check("/");
             }
         });
+        ,kwrvflware gflaweofgrao;i/fhaerio;gh er;okglierohgjer p gkbaerli gjkr glikewrj.g er;jkg haer;ou gaerg;ouaerg oaeu rgougsrh; gurh;ohg;osrehgo;hitr s;oh;strh; oisrt hoijs;oh ;orthor thr hsrihosrth osrth rth;sflgh;sit h;otshlkgh sfh;oit;h oistr
         btn[17].setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
