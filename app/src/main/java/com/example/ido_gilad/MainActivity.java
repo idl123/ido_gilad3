@@ -8,11 +8,12 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
+    int k=50000;
     int b[] = {R.id.b0,R.id.b1, R.id.b2, R.id.b3, R.id.b4, R.id.b5, R.id.b6, R.id.b7, R.id.b8, R.id.b9, R.id.bDot, R.id.bDiv,
             R.id.bX, R.id.bM, R.id.bP, R.id.bbr1, R.id.bbr2, R.id.bE, R.id.bDel, R.id.bAc};
     int index = 0;
     int num1,num2;
-    long res,shalomachavi;
+    long res,bob=10;
     String state = "";
     String[] num = {"",""};
     public  void display(String x){
@@ -98,7 +99,8 @@ public class MainActivity extends AppCompatActivity {
                 check("/");
             }
         });
-         btn[17].setOnClickListener(new View.OnClickListener() {
+        
+        btn[17].setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 if (index == 0){
