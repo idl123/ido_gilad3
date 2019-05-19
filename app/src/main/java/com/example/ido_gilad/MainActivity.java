@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
                 display("9");
             }
         });
-        //bob was here
+        //bob was herettt
         btn[11].setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
