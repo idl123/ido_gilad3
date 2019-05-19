@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
             btn[i] = findViewById(b[i]);
         }
         final TextView t1 = findViewById(R.id.txt1);
-        int bob_the1 =8;
+       
         btn[0].setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
