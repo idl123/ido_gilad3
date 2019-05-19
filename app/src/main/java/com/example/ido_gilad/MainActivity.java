@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
             R.id.bX, R.id.bM, R.id.bP, R.id.bbr1, R.id.bbr2, R.id.bE, R.id.bDel, R.id.bAc};
     int index = 0;
     int num1,num2;
-    long res;
+    long res,hi=10;
     String state = "";
     String[] num = {"",""};
     public  void display(String x){
