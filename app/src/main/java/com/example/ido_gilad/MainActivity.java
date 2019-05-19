@@ -98,7 +98,7 @@ public class MainActivity extends AppCompatActivity {
                 check("/");
             }
         });
-
+        //hi whats your name
         btn[17].setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
