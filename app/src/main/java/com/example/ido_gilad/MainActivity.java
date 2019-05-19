@@ -98,7 +98,7 @@ public class MainActivity extends AppCompatActivity {
                 check("/");
             }
         });
-        ,kwrvflware gflaweofgrao;i/fhaerio;gh er;okglierohgjer p gkbaerli gjkr glikewrj.g er;jkg haer;ou gaerg;ouaerg oaeu rgougsrh; gurh;ohg;osrehgo;hitr s;oh;strh; oisrt hoijs;oh ;orthor thr hsrihosrth osrth rth;sflgh;sit h;otshlkgh sfh;oit;h oistr
+        
         btn[17].setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
